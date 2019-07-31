@@ -1,4 +1,5 @@
 # Virtual-Tourist
+This app is created as a final project of the iOS Nanodegree program - Udacity.
 
 # Build
 Requirements

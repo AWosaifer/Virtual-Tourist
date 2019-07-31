@@ -15,14 +15,14 @@ you can get new random photos by pressing "get new photos" button below.
 you can delete unwanted photos by tapping on them.
 all loaded photos and pins will be stored using coredata.
 # Resources
-This app uses the following frameworks and APIs:
-Third-party frameworks
+This app uses the following Third-party frameworks and APIs.
+
 # Framework	Description
 CocoaPods	The Cocoa Dependency Manager.
 Alamofire:	Easy HTTP networking in Swift.
 SwiftyJSON:	The better way to deal with JSON data in Swift.
 Kingfisher:	A lightweight, pure-Swift library for downloading and caching images from the web.
 APIs
-# Framework	Description
-Flickr API:	It is used to retrieve photos related to the locations.
+# API	Description
+Flickr API:	It is used to retrieve photos related to the locations. \N
 Weather API: It is used to retrive the wather degree from the location.

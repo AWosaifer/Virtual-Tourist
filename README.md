@@ -24,5 +24,5 @@ SwiftyJSON:	The better way to deal with JSON data in Swift.
 Kingfisher:	A lightweight, pure-Swift library for downloading and caching images from the web.
 
 # API	Description
-Flickr API:	It is used to retrieve photos related to the locations. \N
+Flickr API:	It is used to retrieve photos related to the locations. 
 Weather API: It is used to retrive the wather degree from the location.
